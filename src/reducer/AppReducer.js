@@ -5,7 +5,7 @@ export default (state, action) => {
         case 'SUBSCRIBE':
             return {
                 ...state,
-                subscibe_id  = state.subscibe_id
+                subscibe_id: state.subscibe_id
             }
         default:
             return state;
