@@ -44,8 +44,8 @@ const initialState = {
             ],
             "price": "R479.99",
         }
-    ]
-
+    ],
+    subscribe_id =""
 };
 
 // Create context 
